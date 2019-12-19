@@ -1,0 +1,80 @@
+{
+    "name": "GIS Cloud",
+    "description": "GIS Cloud is a collaborative mapping solution for the entire workflow of your organization. It works online and on-premisses.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/802-gis-cloud.jpg",
+    "tags": [
+        "api provider",
+        "display",
+        "gis",
+        "have api",
+        "locations",
+        "maps"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gis-cloud\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GIS Cloud",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/802-gis-cloud.jpg",
+            "humanURL": "http:\/\/www.giscloud.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gis-cloud-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.giscloud.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.giscloud.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.giscloud.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gis-cloud"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/gis-cloud"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developers.giscloud.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@giscloud.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/giscloud"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.giscloud.com\/products\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/giscloud"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.giscloud.com\/"
+        }
+    ]
+}
